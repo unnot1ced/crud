@@ -21,10 +21,6 @@ Navigate to the index.php in the root of the folder and open it.
 
 - [@unnot1ced](https://www.github.com/unnot1ced)
 
-## Authors
-
-- [@unnot1ced](https://www.github.com/unnot1ced)
-
 ## Support
 
 For support, email silentgithub@gmail.com   
